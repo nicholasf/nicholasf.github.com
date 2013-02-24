@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[nicholasf's blog]]></title>
+  <title><![CDATA[nicholasf]]></title>
   <link href="http://nicholasf.github.com/atom.xml" rel="self"/>
   <link href="http://nicholasf.github.com/"/>
-  <updated>2013-02-25T05:04:31+11:00</updated>
+  <updated>2013-02-25T05:06:19+11:00</updated>
   <id>http://nicholasf.github.com/</id>
   <author>
     <name><![CDATA[Nicholas Faiz]]></name>
