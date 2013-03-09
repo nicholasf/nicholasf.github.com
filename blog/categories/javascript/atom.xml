@@ -4,7 +4,7 @@
   <title><![CDATA[Category: javascript | nicholasf]]></title>
   <link href="http://nicholasf.github.com/blog/categories/javascript/atom.xml" rel="self"/>
   <link href="http://nicholasf.github.com/"/>
-  <updated>2013-03-09T16:29:42+11:00</updated>
+  <updated>2013-03-09T16:47:59+11:00</updated>
   <id>http://nicholasf.github.com/</id>
   <author>
     <name><![CDATA[Nicholas Faiz]]></name>
@@ -24,7 +24,7 @@
 
 <p><a href="https://twitter.com/rvagg">Rod Vagg</a> pointed this statement out to me in February, while we were talking about the lack of conventions in the Node world and whether it was a good or bad thing. In the Ruby world there is a 'Rails Way', lately nearing authoritarianism (although I know of Ruby devs who won't do Rails). In the Node world there isn't an equivalent option.</p>
 
-<p>Instead, and this is what Tom Dale's comic statement touched on, there are numerous coders building libraries that solve similar problems, each with its own approach. Many of them are doing so at a smaller scale, the drive to modularize at the level of the function is a big factor (see the <a href="http://www.futurealoof.com/posts/coffee-perspective.html">'substack pattern'</a>). Many of the more eminent Noders are producing libraries at this level.</p>
+<p>Instead, and this is what Tom Dale's comic statement touched on, there are numerous coders building libraries that solve similar problems, each with its own approach. Many of them are doing so at a smaller scale, the drive to modularize at the level of the function is a big factor (see the <a href="http://www.futurealoof.com/posts/coffee-perspective.html">'substack pattern'</a>).</p>
 
 <p>If you develop a Node application you have to be able to understand how to combine these smaller libraries into something larger for your own purpose (notice that I'm refering to ability here, more on that below).</p>
 
@@ -32,7 +32,7 @@
 
 <p>It is also potentially problematic if you write code professonally and in software teams.</p>
 
-<p>Learning node is frustrating for programmers with a background in synchronous languages (which is probably everyone). Programmers have to adjust their mental image of how to solve problems using asynchrony. It took me some time, for example, to learn that it's better not to use promises and to rely solely on the standard callback pattern alongside some functional programming techniques with something like async.js to handle control flow.</p>
+<p>Learning node is frustrating for programmers with a background in synchronous languages (which is probably everyone). Programmers have to adjust their mental image of how to solve problems using asynchrony. It took me some time, for example, to learn that it's better not to use promises and to rely solely on the standard callback pattern alongside some functional programming techniques with something like <a href="https://github.com/caolan/async">async.js</a> to handle control flow.</p>
 
 <p>They also have to be willing to deal with the poorer parts of Javascript, by now everyone has seen the <a href="https://www.destroyallsoftware.com/talks/wat">WAT</a> talk about it.</p>
 
