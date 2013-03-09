@@ -4,7 +4,7 @@
   <title><![CDATA[Category: javascript | nicholasf]]></title>
   <link href="http://nicholasf.github.com/blog/categories/javascript/atom.xml" rel="self"/>
   <link href="http://nicholasf.github.com/"/>
-  <updated>2013-03-09T16:47:59+11:00</updated>
+  <updated>2013-03-09T16:55:55+11:00</updated>
   <id>http://nicholasf.github.com/</id>
   <author>
     <name><![CDATA[Nicholas Faiz]]></name>
@@ -64,7 +64,7 @@
 
 <p>Programmers are constantly trying to invent <em>the</em> Rails equivalent in Node. I think this is a mistaken effort. The negative feedback about omakase has been <a href="http://www.youtube.com/watch?v=E99FnoYqoII">obvious</a>. What I think programmers should be creating are open source examples of how to build Node web projects elegantly.</p>
 
-<p>Granted, for Node to find its mainstream footing it will need to build some convention based programming techniques. At the close of <a href="http://jsconf.com.au/">JSConfAU</a> last year Mikael Rogers spoke about the importance of trying on programming standards and letting them compete to find the best result.</p>
+<p>Granted, for Node to find its mainstream footing it will need to build some convention based programming techniques. At the close of <a href="http://jsconf.com.au/">JSConfAU</a> last year <a href="https://twitter.com/mikeal">Mikael Rogers</a> spoke about the importance of trying on programming standards and letting them compete to find the best result.</p>
 
 <p>I'm not concerned to make predictions about the future. I am interested in how things arrive at places. If Node can find mainstream adoption via its interest in modularity I know that I'll enjoy working in this space.</p>
 ]]></content>
